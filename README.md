@@ -12,3 +12,5 @@ To build and run this you will need a few things
 1. run PhotoAlbum.exe
 
 Enjoy the app
+
+All the unit tests are in NUnit with MOQ 4

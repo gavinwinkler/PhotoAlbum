@@ -13,8 +13,11 @@ Hint: Photos are filtered with a query string. This will return photos within al
 • Unit tests are encouraged
 
 • Post your solution on any of the free code repositories and send us a link:
+
 o https://github.com/
+
 o https://gitlab.com
+
 o https://bitbucket.org/
 
 Provide a README that contains instructions on how to build and run your application

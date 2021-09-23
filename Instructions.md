@@ -1,4 +1,5 @@
-- Photo Album
+Photo Album Instructions
+
 Create a console application that displays photo ids and titles in an album. The photos are available in this online web
 service (https://jsonplaceholder.typicode.com/photos).
 
@@ -21,7 +22,6 @@ Example output:
 photo-album 2
 [53] soluta et harum aliquid officiis ab omnis consequatur
 [54] ut ex quibusdam dolore mollitia
-
 
 photo-album 3
 [101] incidunt alias vel enim
